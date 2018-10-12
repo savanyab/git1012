@@ -1,3 +1,3 @@
 const index = require('./index');
 
-console.log(index.name8);
+console.log("Nekem " + index.name8, index.value8);

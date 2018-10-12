@@ -3,7 +3,7 @@ const start = require('./index');
 const end = require('./console');
 
 const BrigiPullThatSwitch = () => {
-  console.log(end.beautify(start.name1, start.name2));
+  end(start['name1'], start['name2']);
 };
 
 BrigiPullThatSwitch();

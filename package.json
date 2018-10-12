@@ -1,0 +1,19 @@
+{
+  "name": "git1012",
+  "version": "v.0.01",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savanyab/git1012.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savanyab/git1012/issues"
+  },
+  "homepage": "https://github.com/savanyab/git1012#readme"
+}
